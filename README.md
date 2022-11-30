@@ -1,5 +1,7 @@
 # MCPL
 
+![image](https://img.shields.io/github/license/Hill23333/MCPL)
+
 MCPL 开源仓库
 
 咋说呢...MCPL现在还是在测试阶段，很不稳定。
